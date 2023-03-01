@@ -1,0 +1,16 @@
+node_modules
+dist
+passport
+output
+*.out
+/logs
+/test/*.js
+/test/*.js.map
+apidoc
+coverage
+config.js
+.DS_Store
+*~
+/debug
+combined.log
+*.MP4
