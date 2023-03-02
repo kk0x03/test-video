@@ -1,0 +1,23 @@
+{
+  "name": "test-video",
+  "version": "1.0.0",
+  "description": "测试视频流",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kk0x03/test-video.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kk0x03/test-video/issues"
+  },
+  "homepage": "https://github.com/kk0x03/test-video#readme",
+  "dependencies": {
+    "@ffmpeg-installer/ffmpeg": "^1.1.0",
+    "fluent-ffmpeg": "^2.1.2"
+  }
+}
